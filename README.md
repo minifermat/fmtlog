@@ -1,5 +1,5 @@
 # fmtlog
-   focus on unify format log for seveeral luanage.
+   focus on unify format log for seveeral language.
 
    * c++
    * go
